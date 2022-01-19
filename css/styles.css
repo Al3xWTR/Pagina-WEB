@@ -1,0 +1,33 @@
+.sobre {
+  top: 100px;
+  left: 30px;
+  opacity: 0.7;
+  background-color: grey;
+  color: white;
+  transform: rotate(10deg);
+  border: 1px solid red;
+}
+
+body {
+  background-color: black;
+}
+.table {
+  width: 50%;
+  margin: 0 auto !important;
+}
+
+div.noticia {
+  width: 50%;
+  margin: 20px auto;
+  background-color: #449;
+  color: #fff;
+  padding: 15px;
+}
+
+div.noticia img.izquierda {
+  float: left;
+  margin-right: 15px;
+}
+div.reset {
+  clear: both;
+}
